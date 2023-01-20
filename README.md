@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **javascript project**
 
-- 🌱 I’m currently learning **frameworks, OOP**
+- 🌱 I’m currently learning **Web Development & Programming languages **
 
 - 💬 Ask me about **react, java, javascript, HTML, CSS**
 
