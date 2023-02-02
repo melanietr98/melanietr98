@@ -1,6 +1,6 @@
-<h2> Hi, I'm Melanie Rodrigues! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Melanie Rodrigues! I'm a student at Per Scholas currently learning the fundamentals of software engineering!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://perscholas.org/">Per Scholas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Student at <a href="https://perscholas.org/">Per Scholas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melanietr98&label=Profile%20views&color=0e75b6&style=flat" alt="melanietr98" /> </p>
