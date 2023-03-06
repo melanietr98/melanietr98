@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melanietr98&label=Profile%20views&color=0e75b6&style=flat" alt="melanietr98" /> </p>
 
-- 🔭 I’m currently working on a **Javascript Game**
+- 🔭 I’m currently working on a **React Project**
 
 - 🌱 I’m currently learning **Web Development & Programming Languages**
 
-- 💬 Ask me about **React, Java, Javascript, HTML, CSS**
+- 💬 Ask me about **React, Redux, Linux, Java, Javascript, HTML, CSS**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h2 align="left">Connect with me:</h2>  
 
